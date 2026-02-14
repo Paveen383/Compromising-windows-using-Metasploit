@@ -82,19 +82,19 @@ http://192.168.56.102/fun.exe  ( Replace IP address appropriately)
 The file "paveen16.exe" downloads. 
 ## OUTPUT:
 
-<img width="1919" height="930" alt="Screenshot 2026-02-12 211216" src="https://github.com/user-attachments/assets/06549e3f-68f6-41dd-aef6-9a05ae8d9b10" />
-
+<img width="1919" height="1079" alt="Screenshot 2026-02-14 131800" src="https://github.com/user-attachments/assets/0e5a7ba1-ebd2-4d80-9ccd-16d12878fb82" />
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
 
-<img width="1919" height="930" alt="Screenshot 2026-02-12 211216" src="https://github.com/user-attachments/assets/e305f740-d360-4d0a-94a3-2b77d7d4e7a9" />
+<img width="1919" height="1079" alt="Screenshot 2026-02-14 131654" src="https://github.com/user-attachments/assets/ae9ed50f-32b7-4c0c-bb00-5c841f71a2cc" />
+
 
 
 On kali/parrot give the command exploit
 ## OUTPUT:
 
-<img width="1919" height="930" alt="Screenshot 2026-02-12 211216" src="https://github.com/user-attachments/assets/a8099726-0ab4-44de-ac67-1b5011585775" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3c52db19-32d0-4fa6-886a-e568a26d251b" />
 
 
 ## RESULT:
